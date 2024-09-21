@@ -1,0 +1,52 @@
+/* 01. Box Model - display */
+/* section{
+    border: 2px solid black;
+    padding: 1em, 2em;
+    margin: 2em;
+}
+section p{
+    border: 1px solid #ccc;
+    padding: 1em;
+}
+.block p{
+    display: block;
+}
+.inline p{
+    display: inline;
+}
+.inline-block{
+    display: inline-block;
+} */
+
+
+/* 02. Box Model – padding */
+/* div{
+    border: 2px solid black;
+    padding: 1em 2em;
+    margin: 1em;
+}
+.first-element{
+    padding: 20px;
+}
+.second-element{
+    padding: 10px 30px 20px 40px;
+}
+.third-element{
+    padding: 5%;
+} */
+
+/* 03. Box Model – margin */
+/* div{
+    border: 2px solid black;
+    padding: 1em 2em;
+    margin: 1em;
+}
+.first-element{
+    margin: 20px;
+}
+.second-element{
+    margin: 10px 30px 20px 40px;
+}
+.third-element{
+    margin: -20px;
+} */
