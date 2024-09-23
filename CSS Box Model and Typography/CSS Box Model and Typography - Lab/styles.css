@@ -176,3 +176,57 @@ section p{
 html{
     box-sizing: border-box;
 } */
+
+/* 11. Typography CSS */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+} */
+html{
+    font-size: 16px;
+    line-height: 1.5;
+    font-family: Helvetica, sans-serif;
+}
+p, ol, ul{
+    padding-bottom: 1.5rem;
+}
+ol, ul{
+    padding-left: 1.5rem;
+}
+h1, h2, h3, h4, h5, h6{
+    line-height: 1.2;
+    margin-top: 1em;
+    margin-bottom: 0.5;
+    font-family: Georgia;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid rgb(216, 209, 209);
+    width: 33.33%;
+    padding: 10px;
+}
+
+thead {
+    text-align: left;
+    background: #ccc;
+}
+tbody > tr:nth-child(odd){
+    background: #ebebeb;
+}
+blockquote{
+    margin-left: 30px;
+    padding-left: 20px;
+    border-left: 3px solid #ccc;
+    font-style: italic;
+    position: relative;
+}
+blockquote cite{
+    display: block;
+    margin-top: 10px;
+    text-align: right;
+}
