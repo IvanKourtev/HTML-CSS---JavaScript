@@ -36,3 +36,29 @@
     text-align: center;
     text-transform: capitalize;
 } */
+
+/* 02. Layout – Centered Container */
+/* body{
+    border: 2px solid green;
+    margin: 0;
+    padding: 20px 0;
+}
+section{
+    border: 2px solid blue;
+    padding: 20px;
+    max-width: 1000px;
+    margin: auto;
+}
+header, main, footer{
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+footer{
+    margin-bottom: 0;
+}
+h1{
+    font-size: 1rem;
+    font-weight: 500;
+} */
