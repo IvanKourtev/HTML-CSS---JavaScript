@@ -1,0 +1,38 @@
+/* 01. Box Model Visualised */
+/* .box{
+    width: 50vw;
+    margin: auto;
+    margin-top: 40px;
+}
+.box div{
+    border: 1px dashed #666; 
+    margin: 10px 20px 20px 20px;
+}
+.box div::before{
+    padding-left: 20px;
+    font-size: 15px;
+    display: block;
+}
+.box .margin-box:before{
+    content: 'margin';
+}
+.box .border-box:before{
+    content: 'border';
+}
+.box .padding-box:before{
+    content: 'padding';
+}
+.margin-box {
+    background-color: coral;
+}
+.border-box {
+    background-color: peachpuff;
+}
+.padding-box {
+    background-color: lightgreen;
+}
+.content-box {
+    background-color: lightblue;
+    text-align: center;
+    text-transform: capitalize;
+} */
