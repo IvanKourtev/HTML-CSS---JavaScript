@@ -162,3 +162,47 @@ footer p{
     font-weight: 700;
     cursor: pointer;
 } */
+
+/* 07. Social Media Icons */
+/* .button{
+    padding: 5px;
+    font-size: xx-large;
+    max-width: 25%;
+    margin: 20px auto;
+    border-radius: 5px;
+    overflow: hidden;;
+} */
+
+/* 08. Component Button */
+/* a{
+    color: inherit;
+    text-decoration: none;
+}
+h2{
+    font-size: 1.2em;
+}
+.button{
+    background-color: #a7a7a7;
+    border-radius: 5px;
+    padding: 10px;
+    text-align: center;
+    display: inline-block;
+    margin: 10px 5px;
+    border: 1px solid #a7a7a7; 
+}
+.first{
+    margin-left: 0;
+}
+.second{
+    background-color: orange;
+}
+.third{
+    background-color: #ffff0050;
+}
+.forth{
+    background-color: initial;
+}
+button{
+    font-size: 1rem;
+    cursor: pointer;
+} */
